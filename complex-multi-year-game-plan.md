@@ -1,56 +1,37 @@
-# Complex Multi-Year Customer Game Plan
+# Segment Playbook: Complex and Strategic Multi Year Accounts
 
-## Why This Playbook Exists
+My most strategic accounts are large, multi year, multi location customers with complex hiring needs and several stakeholders. Many are in safety critical industries, where the right hire is not only a performance question, it is a reliability and safety question. Here is how I set these accounts up to succeed.
 
-Complex multi-year customers want customization. They're paying for a long-term partnership, they have specialized roles, and they expect the platform to reflect their specific hiring needs — not a one-size-fits-all template. The challenge is that customization takes time, coordination, and sustained momentum from both sides.
+## The Customer Profile
 
-This playbook came out of a real situation where a 3-year enterprise customer with 20+ positions to configure got overwhelmed during onboarding. The lesson: don't try to do everything at once. Build a system that moves one thing forward every week.
+* Multi year agreement, high strategic value
+* Many roles to configure, often across multiple sites
+* Several internal stakeholders, usually coordinated through one internal champion, such as an HR generalist
+* High expectations, because both the commitment and the stakes are large
+* In safety critical roles, screening for conscientiousness and dependability is non negotiable, because the cost of a wrong fit is far more than turnover
 
-## The Approach: Working Sessions, Not Status Calls
+## The Core Challenge
 
-Set up weekly *working sessions* — not check-in calls. The difference matters. A status call asks "how's it going?" A working session says "let's get something done."
+The failure mode with these accounts is trying to do everything at once. When you sit down to configure fifteen or twenty roles up front, the internal champion who has to gather tasks, traits, and interview questions from every hiring manager gets buried. They have their own job. They cannot spend weeks collecting input from a dozen managers. Momentum dies in the gap, and once an account goes quiet between meetings, confidence erodes before they have seen a single result.
 
-Each session should move one tangible thing forward:
-- Build 1 role
-- Finalize 1 set of questions
-- Review 1 set of results
+## My Process
 
-**The goal: progress over perfection.**
+**Milestones, not volume.** Instead of configuring every role at once, we take them one at a time. Each working session moves exactly one thing forward: build one role, finalize one set of questions, or review one set of results. Progress over perfection.
 
-Schedule 6-8 weekly sessions upfront, on the calendar from day one. Flex based on customer availability, but the cadence has to be locked in early. I learned this after watching an enterprise account go dark when we didn't have regular meetings on the calendar — they got busy, and weeks slipped by.
+**Set the cadence up front.** I book weekly working sessions on the calendar for the first six to eight weeks, starting day one. Not status calls, actual working time together. This is the biggest lever. Left to "we will find time," the time never gets found and the account stalls. Booked up front, momentum holds.
 
-## Unlocking the Bottleneck: Stakeholder Input
+**Support the champion.** The internal coordinator is the bottleneck, so I make their job easier. I give them lightweight input templates, so gathering role requirements from managers becomes a fill in the blank task instead of a blank page.
 
-The most common reason complex accounts stall is that the internal champion — usually an HR generalist — has to gather input from multiple hiring managers before we can configure roles. Each manager needs to weigh in on tasks, traits, and interview questions. That's a lot of coordination on top of their regular job.
+**Show value early.** We align on questions and scoring for the first role, get it live, and review early candidate results together quickly. Real results on one role build the confidence to keep going.
 
-The fix is making it as easy as possible for them. I use a lightweight outreach template they can send to managers:
+## Illustrative Example
 
-> Hi **NAME**,
->
-> We're working on improving how we screen candidates for your team. Could you provide quick input on the below?
->
-> 1. **Key Tasks (Top 3–5):** What are the most important things this person does daily?
-> 2. **What makes someone successful in this role?** (Example: reliable, safety-focused, adaptable, etc.)
-> 3. **Interview Question (Scenario-Based):** Example: "Tell me about a time when..."
-> 4. **1–2 Follow-Up Questions:** How did you handle it? What would you do differently?
->
-> This doesn't need to be perfect, quick input is great.
+A strategic multi year account in a safety critical industry came in wanting to configure more than twenty roles at once. The internal champion, responsible for pulling requirements from every hiring manager, told us it would take weeks, and early momentum stalled in that gap. I reset the approach around milestones: one role at a time, a standing weekly session booked for the next several weeks, and an input template to take the load off the champion. That structure turned a stalled rollout into steady, visible progress.
 
-The key phrase is "this doesn't need to be perfect." Managers freeze when they think they need to write a formal job description. Lowering the bar gets you the input you need to keep moving.
+## What This Segment Taught Me
 
-## What Not To Do
+Two lessons that are now standard in how I run complex accounts. First, trying to configure everything at once overwhelms whoever is doing the internal coordination, so break the work into milestones. Second, set the meeting cadence up front, because the gap between meetings is exactly where these accounts go dark. Both came from watching a real rollout struggle, and both are built into the playbook now.
 
-- Don't try to configure all positions at once — the internal champion will drown
-- Don't let more than a week pass without a touchpoint
-- Don't treat working sessions as optional — they're the engine of the implementation
-- Don't assume the customer will drive their own onboarding — that's your job
-- Don't wait for perfection before going live on the first role
+## Expansion Path
 
-## When It's Working
-
-You know the game plan is working when:
-- The customer shows up to working sessions prepared
-- Positions are getting configured and going live on a regular cadence
-- The internal champion starts coordinating with managers proactively
-- Early candidate results generate conversation and follow-up questions
-- The customer starts asking about the next set of roles before you bring it up
+Once the first roles are live and producing results, there is a clear path to expanding across more positions and sites. The long term opportunity is standardizing hiring practices across the whole organization and measurably improving workforce quality, which is what a strategic customer signs a multi year deal to achieve.

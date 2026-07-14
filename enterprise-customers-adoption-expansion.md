@@ -1,50 +1,32 @@
-# Enterprise Customers — Adoption & Expansion Strategy
+# Segment Playbook: Enterprise Accounts, Adoption and Expansion
 
-## What Makes Enterprise Different
+Enterprise accounts are committed, multi year, and involve several stakeholders across the organization. The pilot question, will they buy, is already answered. Here the job shifts to adoption and expansion: getting the platform genuinely used across teams, proving value along the way, and growing the account. My guiding principle for this segment is simple. Do not rely on a single buyer. Build champions across the account so the relationship does not hinge on one person.
 
-Enterprise customers have signed multi-year agreements. They're committed — but committed doesn't mean adopted. These accounts have complex hiring needs, multiple stakeholders, and high expectations because they've made a significant investment.
+## The Customer Profile
 
-The mistake is thinking the hard part is over once the deal is signed. It's not. The hard part is getting them live, keeping momentum, and making sure the platform actually gets used consistently across roles and teams.
+* Committed multi year agreement, already past the buying decision
+* Multiple stakeholders and hiring managers, often across teams or sites
+* Higher expectations, because they have invested more
+* Success measured by real adoption and expansion, not just renewal
 
-## What I Learned the Hard Way
+## The Core Challenge
 
-With our largest enterprise account — a mining company on a 3-year contract — we tried to set up 20+ positions at once. The HR generalist responsible for coordinating everything hit a wall. She had to work with each hiring manager individually to gather the specific tasks, traits, and interview questions for every role. It was too much, too fast. She told us it would take 2-3 weeks just to collect what she needed.
+The failure mode here is overwhelm. Enterprise customers try to do too much at once, and the internal person coordinating everything gets buried gathering input from every manager. When that person stalls, the whole account stalls, and enthusiasm fades before results show up.
 
-Meanwhile, we'd met 2-3 times early on, then there was a gap in meetings, and momentum died. They'd planned to start inviting candidates, but work got in the way and the account went quiet.
+## My Process
 
-Two lessons came out of that:
+**Build champions across the account.** I never let the relationship depend on one contact. I find and grow allies among the stakeholders and hiring managers, so momentum and advocacy come from several places, not a single point of failure.
 
-**1. Focus on milestones, not volume.** Don't try to boil the ocean. Tackle one position at a time. Get it configured, get it live, get results — then move to the next one. Progress over perfection.
+**Milestones over volume.** Rather than standing up everything at once, we move one meaningful thing forward at a time. It keeps the internal team from drowning and produces visible wins along the way.
 
-**2. Set the meeting cadence upfront.** Put 6-8 weekly working sessions on the calendar from day one. Not status calls — actual working time where you're building roles, finalizing questions, or reviewing results together. If you don't lock in the cadence early, the gaps between meetings grow and momentum disappears.
+**A steady working cadence.** I set a regular rhythm of working sessions so the account never goes dark between touchpoints. Consistent forward motion is what keeps a large account healthy.
 
-## The Safety Stakes
+**Demonstrate value continuously.** I make sure stakeholders repeatedly see what the platform is producing, because in an enterprise account, the case for expanding is built on a visible track record of results.
 
-For some enterprise accounts, the hiring decisions aren't just about productivity — they're about safety. Our mining customer had a worker die on their first day at a remote site because they lacked the situational awareness the role required. That's why conscientiousness shows up as a non-negotiable trait in every assessment we build for them. These aren't abstract criteria. The stakes are real, and the CS approach has to reflect that.
+## Watching for Expansion Signals
 
-## Core Strategy
+Once adoption is real in one team, the natural next move is expanding to more roles, teams, or sites. I watch for the signals: a stakeholder asking about another use case, strong results on early roles, a new hiring need surfacing. Expansion in enterprise is earned by proven value, then offered at the right moment.
 
-Deliver a structured, high-touch onboarding experience. These customers need to feel like you're a partner, not a vendor.
+## What This Segment Taught Me
 
-- Start by aligning with stakeholders on what success looks like for the first 1-2 roles
-- Build and configure job blueprints tailored to each role — and lead with tasks and traits, not job titles (companies name positions differently)
-- Set up weekly working sessions for 6-8 weeks, each one moving one tangible thing forward
-- Use the stakeholder input template to reduce the coordination burden on the internal champion
-- Review early results together so the customer sees value before you try to scale
-
-## What Not To Do
-
-- Don't rush onboarding without alignment on roles and requirements
-- Don't treat an enterprise account like a pilot — they're paying for a different level of engagement
-- Don't assume stakeholders are aligned just because the deal is signed
-- Don't scale to additional positions before the first ones are properly configured and producing results
-- Don't focus on features — focus on aligning to their real-world hiring needs
-
-## Expansion Signals
-
-- Initial roles are live and producing consistent results
-- The customer is using the platform regularly across teams
-- Positive feedback on candidate quality and screening effectiveness
-- Additional stakeholders start requesting access or getting involved
-- Interest in expanding to new roles or departments
-- The internal champion starts advocating for the platform without prompting
+Enterprise accounts live or die on two things: not letting the relationship rest on one person, and not letting the internal team get overwhelmed. Spread the champions, pace the work, and keep results visible, and the account both stays and grows.

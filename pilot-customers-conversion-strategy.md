@@ -1,45 +1,36 @@
-# Pilot Customers — Conversion Strategy
+# Segment Playbook: Pilot Customers, Conversion Strategy
 
-## The Reality of Pilot Customers
+Pilot accounts are evaluating, not sold. If a customer were fully convinced, they would sign a longer agreement instead of running a pilot. That single fact shapes everything about how I engage them. A pilot is a clock, and my job is to prove enough value before it runs out that staying becomes the obvious choice.
 
-Here's the thing most CS people get wrong about pilots: they assume the customer is sold on the product. They're not. If they were 100% sold, they'd sign a multi-year agreement. A pilot is an evaluation — the customer is trying to figure out if this fits into their world. That changes everything about how you engage them.
+## The Customer Profile
 
-Pilot customers pay a small fee to try the platform. If they convert to a multi-year agreement, that fee gets credited toward their contract. The incentive structure is designed to reduce risk for them, but it also means the clock is ticking from day one. If they don't see value during the pilot window, they're gone.
+* Short, time limited evaluation
+* Not yet committed, actively deciding whether the platform fits their world
+* High risk of stalling if left alone
+* Usually one or two roles in play, one main point of contact
 
-## What I've Seen Across Pilot Accounts
+## The Core Insight
 
-Both of our pilot accounts followed the same pattern: we onboarded them on a specific position, activity went silent within 1-2 weeks, and it turned out the position had been put on hold. In one case I caught it by reaching out proactively. In the other, the customer reached out to me.
+Most CS people treat a pilot customer like they already bought. They wait for the customer to explore and come back impressed. Pilots do not work that way. The customer is busy, unconvinced, and easy to lose to their own inertia. So the strategy cannot be passive. I have to create value early and make the platform part of how they actually work.
 
-The stall isn't because they don't like the platform — it's because their hiring situation changed. But if you're not watching for it and ready to pivot, the pilot expires with no usage and no conversion.
+## My Process
 
-## The Other Challenge: Talent Shortage
+**Create value before full commitment.** I do not wait for them to be sold to start showing what the platform does for them. Early, concrete value is the strongest predictor of whether a pilot converts.
 
-The biggest pattern across all our customers right now is a shortage of qualified candidates in trades. Companies are telling us they just need "somebody with a pulse" because the talent pool is so thin. Even though our platform is designed to tell them who's qualified and who's not, if candidates aren't coming through the door in the first place, the platform doesn't get used. This is an honest, ongoing challenge that the entire team is grappling with.
+**Define a clear workflow.** A pilot fails when nobody actually uses the tool. I define a simple, specific workflow so the customer knows exactly what to do and when, instead of logging in and wondering where to start.
 
-## Core Strategy
+**Position as a replacement, not an addition.** The platform lands when it replaces a step they already do, like a phone screen, rather than adding one more thing to their plate. Framed as a replacement, adoption is easy. Framed as an extra, it gets skipped.
 
-Create value before the customer is fully committed, and don't wait for perfect conditions.
+**Watch for the stall, then pivot.** The most common pilot pattern: the account goes quiet, and it turns out the role they were hiring for got put on hold. When I see the silence, I reach out fast, and rather than let the pilot clock burn, I pivot us to a different position they actually have open. Always have a backup role ready.
 
-- If the initial position falls through, pivot immediately to another open role. Don't let the pilot clock run while nothing is happening.
-- Run sample candidates through the platform to demonstrate value even when real hiring hasn't started.
-- Position the assessment as a replacement for the initial phone screening step — not an additional step. If the customer sees it as extra work, they won't adopt.
-- Define a clear workflow upfront: when does the assessment get sent? Who reviews the results? How does it fit into what they're already doing?
+## Illustrative Example
 
-## What Not To Do
+A pilot account went quiet for over a week after onboarding. Instead of waiting out the clock, I reached out and learned their target role had been paused. We pivoted and built an assessment for a position they did have open, which kept the evaluation alive and the momentum going. That save became a standard play: do not wait for the customer to resurface, and always have a second role in your back pocket.
 
-- Don't wait for the customer to start hiring before you demonstrate value. By then the pilot might be over.
-- Don't leave it up to the customer to figure out where the platform fits in their process. That's your job.
-- Don't assume silence means satisfaction. In a pilot, silence almost always means something stalled.
-- Don't focus on features. Focus on how this changes their outcome — fewer wasted interviews, better candidates in seats faster.
+## What This Segment Taught Me
 
-## How to Spot a Customer Ready to Convert
+Pilots reward action and punish patience. The accounts that convert are the ones where I created early value, defined a clear workflow, and moved quickly the moment things went quiet. That is now the pilot playbook.
 
-- They're engaging with candidate results and asking follow-up questions about scoring
-- They've started using the platform consistently on at least one role
-- They mention time saved or better candidate quality in conversation
-- They ask about applying the platform to additional roles
-- Other team members start getting involved
+## Conversion Path
 
-## The Lesson
-
-Pilot customers require more active engagement, not less. The fact that they're evaluating means you have to prove value in a compressed timeline with imperfect conditions — positions going on hold, candidates not flowing in, workflow confusion. The playbook is: stay close, pivot fast, and make sure they see results before the window closes.
+A pilot converts when the customer has seen real value, used the platform inside a real workflow, and come to see it as replacing a step rather than adding one. Get those three things true before the clock runs out, and the longer term agreement follows.
